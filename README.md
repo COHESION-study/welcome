@@ -10,7 +10,7 @@ Collected data will be anonymized and analyzed by a team of scientists. Results 
 
 More information on the [study Web site](https://cohesionstudy.ca).
 
-## Objective of this Github workspace
+## Goal of this Github workspace
 
 This Github workspace aims at keeping track of all analyses and processing steps through which COHESION data may undergo. This will contribute to the traceability and reproduceability of analyses published in papers or blogs as well as computation of new derived variables or cleaning and standardiation of existing COHESION variables.
 
